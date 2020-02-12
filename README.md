@@ -1,5 +1,7 @@
 # Treinamentos
 
+Segue abaixo uma śerie de treinamentos criadas por mim a fim de treinar novos desenvolvedores que estão iniciando em Java para Web.
+
 - Criando uma aplicação JAVA Web
   - Utilizando Servlet;
   - Utilizando JSP;
