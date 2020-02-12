@@ -16,4 +16,4 @@ Segue abaixo uma śerie de treinamentos criadas por mim a fim de treinar novos d
   - Utilizando Spring (Injeção de Dependência);
   - Utilizando Spring MVC;
   - Utilizando Spring Data;
-- Criando uma aplicação JAVA Web utilizando Spring Boot
+- Criando uma aplicação JAVA Web com Spring Boot
